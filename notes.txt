@@ -1,0 +1,2 @@
+Prints the current pymc version
+print(f"Running on PyMC v{pm.__version__}")
